@@ -1,0 +1,54 @@
+#container
+{	
+	background-color:#FAFAFA;
+	width:700px;
+}
+
+#header1
+{
+	height:50px;
+	font-size:large;
+}
+
+#header2
+{
+	background-color:#E6E6E6;
+	height:50px;
+	text-align:center;
+	font-size:xx-large;
+}
+
+#menu
+{
+	background-color:#E0ECF8;
+	height:400px;
+	width:150px;
+	float:left;
+}
+
+#content
+{
+	background-color:#FAFAFA;
+	height:350px;
+	width:350px;
+	float:left;
+	padding:25px 25px
+
+}
+
+#resource
+{
+	background-color:#E0ECF8;
+	height:400px;
+	width:150px;
+	float:left;
+}
+
+#footer
+{	
+	background-color:#E6E6E6;
+	height:50px;
+	width:700px;
+	clear:both;
+	text-align:center;
+}
